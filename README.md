@@ -1,2 +1,5 @@
 # HGNN
 Predicting Product Returns for Online Fashion Retailer with Heterogeneous Graph Neural Networks
+
+
+Online fashion retailers face enormous challenges due to high return rates that significantly affect their operational performance. Predictive models can be used to decrease return rates by anticipating consumer behavior, generating return predictions for each product in a purchase order and suggesting alternative products or providing information regarding stock shortages or delivery times. In this project, we proposed a novel methodology using Heterogeneous Graph Neural Networks (HGNN) to develop predictive models of product returns based on customer preferences, product attributes, and characteristics of an order. Using real-world data from an online fashion retail platform, the HGNN model demonstrated better accuracy than traditional machine learning techniques for repeat customers. However, the prediction ability of new customers was insufficient due to limited preference information. 
